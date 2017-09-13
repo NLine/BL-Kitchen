@@ -1,0 +1,267 @@
+naik@BLTX:~$ aptinstall gtk2-engines*
+Paketlisten werden gelesen... Fertig
+Abhängigkeitsbaum wird aufgebaut.       
+Statusinformationen werden eingelesen.... Fertig
+Note, selecting 'gtk2-engines' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-xfce' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-qtcurve' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-moblin' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-murrine' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-cleanice' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-pixbuf' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-nodoka' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-aurora' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-oxygen' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-gartoon' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-magicchicken' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-sugar' for glob 'gtk2-engines*'
+Note, selecting 'gtk2-engines-wonderland' for glob 'gtk2-engines*'
+Hinweis: »gnome-icon-theme-gartoon« wird an Stelle von »gtk2-engines-gartoon« gewählt.
+Die folgenden Pakete wurden automatisch installiert und werden nicht mehr benötigt:
+  bunsen-keyring javascript-common libboost-python1.62.0 libjs-jquery libjs-sphinxdoc libjs-underscore
+  linux-image-3.16.0-4-amd64 python-pyexiv2 python-pyexiv2-doc
+Verwenden Sie »sudo apt autoremove«, um sie zu entfernen.
+The following additional packages will be installed:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme docbook-xml docbook-xsl greybird-gtk-theme
+  icoutils kate-data katepart kde-baseapps-bin kde-baseapps-data kde-runtime kde-runtime-data
+  kde-style-qtcurve-qt4 kde-style-qtcurve-qt5 kdelibs-bin kdelibs5-data kdelibs5-plugins kdoctools kio
+  libattica0.4 libauthen-sasl-perl libcanberra-pulse libdbusmenu-qt2 libdbusmenu-qt5-2 libdlrestrictions1
+  libencode-locale-perl libfam0 libfile-listing-perl libfont-afm-perl libgpgme++2v5 libhfstospell9
+  libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl
+  libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl
+  libio-html-perl libio-socket-ssl-perl libiodbc2 libkactivities6 libkatepartinterfaces4 libkcmutils4
+  libkde3support4 libkdeclarative5 libkdecore5 libkdesu5 libkdeui5 libkdewebkit5 libkdnssd4
+  libkemoticons4 libkf5archive5 libkf5attica5 libkf5auth-data libkf5auth5 libkf5bookmarks-data
+  libkf5bookmarks5 libkf5codecs-data libkf5codecs5 libkf5completion-data libkf5completion5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5 libkf5configwidgets-data
+  libkf5configwidgets5 libkf5coreaddons-data libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin
+  libkf5dbusaddons-data libkf5dbusaddons5 libkf5doctools5 libkf5globalaccel-bin libkf5globalaccel-data
+  libkf5globalaccel5 libkf5globalaccelprivate5 libkf5guiaddons5 libkf5i18n-data libkf5i18n5
+  libkf5iconthemes-bin libkf5iconthemes-data libkf5iconthemes5 libkf5itemviews-data libkf5itemviews5
+  libkf5jobwidgets-data libkf5jobwidgets5 libkf5kdelibs4support-data libkf5kdelibs4support5
+  libkf5kdelibs4support5-bin libkf5kiocore5 libkf5kiofilewidgets5 libkf5kiontlm5 libkf5kiowidgets5
+  libkf5notifications-data libkf5notifications5 libkf5parts-data libkf5parts-plugins libkf5parts5
+  libkf5service-bin libkf5service-data libkf5service5 libkf5solid5 libkf5solid5-data libkf5sonnet5-data
+  libkf5sonnetcore5 libkf5sonnetui5 libkf5textwidgets-data libkf5textwidgets5 libkf5wallet-bin
+  libkf5wallet-data libkf5wallet5 libkf5widgetsaddons-data libkf5widgetsaddons5 libkf5windowsystem-data
+  libkf5windowsystem5 libkf5xmlgui-bin libkf5xmlgui-data libkf5xmlgui5 libkfile4 libkhtml5 libkio5
+  libkjsapi4 libkjsembed4 libkmediaplayer4 libknewstuff3-4 libknotifyconfig4 libkntlm4 libkparts4
+  libkpty4 libkrosscore4 libktexteditor4 libkwalletbackend5-5 libkxmlrpcclient4 liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libnepomuk4 libnepomukquery4a libnepomukutils4
+  libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libntrack-qt4-1 libntrack0 libphonon4
+  libphonon4qt5-4 libplasma3 libpolkit-qt-1-1 libpolkit-qt5-1-1 libqca2 libqca2-plugins
+  libqt4-declarative libqt4-designer libqt4-network libqt4-opengl libqt4-qt3support libqt4-script
+  libqt4-sql libqt4-sql-mysql libqt4-svg libqt4-xmlpatterns libqt5script5 libqt5test5 libqt5x11extras5
+  libqt5xml5 libqtcurve-utils2 libqtwebkit4 libsolid4 libsoprano4 libssh-gcrypt-4 libthreadweaver4
+  libtimedate-perl liburi-perl libutempter0 libvoikko1 libwww-perl libwww-robotrules-perl libxml2-utils
+  media-player-info murrine-themes ntrack-module-libnl-0 oxygen-icon-theme perl-openssl-defaults phonon
+  phonon-backend-gstreamer phonon-backend-gstreamer-common phonon4qt5 phonon4qt5-backend-vlc
+  plasma-scriptengine-javascript sgml-base sgml-data sonnet-plugins soprano-daemon
+  sound-theme-freedesktop xml-core
+Vorgeschlagene Pakete:
+  docbook docbook-dsssl docbook-defguide dbtoepub docbook-xsl-doc-html | docbook-xsl-doc-pdf
+  | docbook-xsl-doc-text | docbook-xsl-doc docbook-xsl-saxon fop libsaxon-java libxalan2-java
+  libxslthl-java xalan kde-config-gtk-style xfce4-panel libterm-readline-gnu-perl
+  | libterm-readline-perl-perl djvulibre-bin finger libdigest-hmac-perl libgssapi-perl fam
+  libdata-dump-perl iodbc hspell libcrypt-ssleay-perl libqt4-declarative-folderlistmodel
+  libqt4-declarative-gestures libqt4-declarative-particles libqt4-declarative-shaders qt4-qmlviewer
+  libqt4-dev voikko-fi libauthen-ntlm-perl phonon-backend-vlc phonon4qt5-backend-gstreamer sgml-base-doc
+  perlsgml w3-recs opensp virtuoso-minimal debhelper
+Die folgenden Pakete werden ENTFERNT:
+  fdpowermon-icons
+Die folgenden NEUEN Pakete werden installiert:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme docbook-xml docbook-xsl
+  gnome-icon-theme-gartoon greybird-gtk-theme gtk2-engines gtk2-engines-aurora gtk2-engines-cleanice
+  gtk2-engines-magicchicken gtk2-engines-moblin gtk2-engines-murrine gtk2-engines-nodoka
+  gtk2-engines-oxygen gtk2-engines-pixbuf gtk2-engines-qtcurve gtk2-engines-sugar gtk2-engines-wonderland
+  gtk2-engines-xfce icoutils kate-data katepart kde-baseapps-bin kde-baseapps-data kde-runtime
+  kde-runtime-data kde-style-qtcurve-qt4 kde-style-qtcurve-qt5 kdelibs-bin kdelibs5-data kdelibs5-plugins
+  kdoctools kio libattica0.4 libauthen-sasl-perl libcanberra-pulse libdbusmenu-qt2 libdbusmenu-qt5-2
+  libdlrestrictions1 libencode-locale-perl libfam0 libfile-listing-perl libfont-afm-perl libgpgme++2v5
+  libhfstospell9 libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl
+  libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl libhttp-message-perl
+  libhttp-negotiate-perl libio-html-perl libio-socket-ssl-perl libiodbc2 libkactivities6
+  libkatepartinterfaces4 libkcmutils4 libkde3support4 libkdeclarative5 libkdecore5 libkdesu5 libkdeui5
+  libkdewebkit5 libkdnssd4 libkemoticons4 libkf5archive5 libkf5attica5 libkf5auth-data libkf5auth5
+  libkf5bookmarks-data libkf5bookmarks5 libkf5codecs-data libkf5codecs5 libkf5completion-data
+  libkf5completion5 libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5coreaddons-data libkf5coreaddons5 libkf5crash5
+  libkf5dbusaddons-bin libkf5dbusaddons-data libkf5dbusaddons5 libkf5doctools5 libkf5globalaccel-bin
+  libkf5globalaccel-data libkf5globalaccel5 libkf5globalaccelprivate5 libkf5guiaddons5 libkf5i18n-data
+  libkf5i18n5 libkf5iconthemes-bin libkf5iconthemes-data libkf5iconthemes5 libkf5itemviews-data
+  libkf5itemviews5 libkf5jobwidgets-data libkf5jobwidgets5 libkf5kdelibs4support-data
+  libkf5kdelibs4support5 libkf5kdelibs4support5-bin libkf5kiocore5 libkf5kiofilewidgets5 libkf5kiontlm5
+  libkf5kiowidgets5 libkf5notifications-data libkf5notifications5 libkf5parts-data libkf5parts-plugins
+  libkf5parts5 libkf5service-bin libkf5service-data libkf5service5 libkf5solid5 libkf5solid5-data
+  libkf5sonnet5-data libkf5sonnetcore5 libkf5sonnetui5 libkf5textwidgets-data libkf5textwidgets5
+  libkf5wallet-bin libkf5wallet-data libkf5wallet5 libkf5widgetsaddons-data libkf5widgetsaddons5
+  libkf5windowsystem-data libkf5windowsystem5 libkf5xmlgui-bin libkf5xmlgui-data libkf5xmlgui5 libkfile4
+  libkhtml5 libkio5 libkjsapi4 libkjsembed4 libkmediaplayer4 libknewstuff3-4 libknotifyconfig4 libkntlm4
+  libkparts4 libkpty4 libkrosscore4 libktexteditor4 libkwalletbackend5-5 libkxmlrpcclient4
+  liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnepomuk4 libnepomukquery4a
+  libnepomukutils4 libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libntrack-qt4-1 libntrack0
+  libphonon4 libphonon4qt5-4 libplasma3 libpolkit-qt-1-1 libpolkit-qt5-1-1 libqca2 libqca2-plugins
+  libqt4-declarative libqt4-designer libqt4-network libqt4-opengl libqt4-qt3support libqt4-script
+  libqt4-sql libqt4-sql-mysql libqt4-svg libqt4-xmlpatterns libqt5script5 libqt5test5 libqt5x11extras5
+  libqt5xml5 libqtcurve-utils2 libqtwebkit4 libsolid4 libsoprano4 libssh-gcrypt-4 libthreadweaver4
+  libtimedate-perl liburi-perl libutempter0 libvoikko1 libwww-perl libwww-robotrules-perl libxml2-utils
+  media-player-info murrine-themes ntrack-module-libnl-0 oxygen-icon-theme perl-openssl-defaults phonon
+  phonon-backend-gstreamer phonon-backend-gstreamer-common phonon4qt5 phonon4qt5-backend-vlc
+  plasma-scriptengine-javascript sgml-base sgml-data sonnet-plugins soprano-daemon
+  sound-theme-freedesktop xml-core
+0 aktualisiert, 216 neu installiert, 1 zu entfernen und 0 nicht aktualisiert.
+Es müssen 102 MB an Archiven heruntergeladen werden.
+Nach dieser Operation werden 350 MB Plattenplatz zusätzlich benutzt.
+Möchten Sie fortfahren? [J/n] n
+Abbruch.
+
+naik@BLTX:~$ aptinstall gtk2-engines gtk2-engines-xfce gtk2-engines-qtcurve gtk2-engines-murrine gtk2-engines-cleanice gtk2-engines-pixbuf gtk2-engines-nodoka gtk2-engines-aurora gtk2-engines-oxygen gtk2-engines-gartoon gtk2-engines-magicchicken gtk2-engines-wonderland
+Paketlisten werden gelesen... Fertig
+Abhängigkeitsbaum wird aufgebaut.       
+Statusinformationen werden eingelesen.... Fertig
+Hinweis: »gnome-icon-theme-gartoon« wird an Stelle von »gtk2-engines-gartoon« gewählt.
+Die folgenden Pakete wurden automatisch installiert und werden nicht mehr benötigt:
+  bunsen-keyring javascript-common libboost-python1.62.0 libjs-jquery libjs-sphinxdoc libjs-underscore
+  linux-image-3.16.0-4-amd64 python-pyexiv2 python-pyexiv2-doc
+Verwenden Sie »sudo apt autoremove«, um sie zu entfernen.
+The following additional packages will be installed:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme docbook-xml docbook-xsl greybird-gtk-theme
+  icoutils kate-data katepart kde-baseapps-bin kde-baseapps-data kde-runtime kde-runtime-data
+  kde-style-qtcurve-qt4 kde-style-qtcurve-qt5 kdelibs-bin kdelibs5-data kdelibs5-plugins kdoctools kio
+  libattica0.4 libauthen-sasl-perl libcanberra-pulse libdbusmenu-qt2 libdbusmenu-qt5-2 libdlrestrictions1
+  libencode-locale-perl libfam0 libfile-listing-perl libfont-afm-perl libgpgme++2v5 libhfstospell9
+  libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl
+  libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl
+  libio-html-perl libio-socket-ssl-perl libiodbc2 libkactivities6 libkatepartinterfaces4 libkcmutils4
+  libkde3support4 libkdeclarative5 libkdecore5 libkdesu5 libkdeui5 libkdewebkit5 libkdnssd4
+  libkemoticons4 libkf5archive5 libkf5attica5 libkf5auth-data libkf5auth5 libkf5bookmarks-data
+  libkf5bookmarks5 libkf5codecs-data libkf5codecs5 libkf5completion-data libkf5completion5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5 libkf5configwidgets-data
+  libkf5configwidgets5 libkf5coreaddons-data libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin
+  libkf5dbusaddons-data libkf5dbusaddons5 libkf5doctools5 libkf5globalaccel-bin libkf5globalaccel-data
+  libkf5globalaccel5 libkf5globalaccelprivate5 libkf5guiaddons5 libkf5i18n-data libkf5i18n5
+  libkf5iconthemes-bin libkf5iconthemes-data libkf5iconthemes5 libkf5itemviews-data libkf5itemviews5
+  libkf5jobwidgets-data libkf5jobwidgets5 libkf5kdelibs4support-data libkf5kdelibs4support5
+  libkf5kdelibs4support5-bin libkf5kiocore5 libkf5kiofilewidgets5 libkf5kiontlm5 libkf5kiowidgets5
+  libkf5notifications-data libkf5notifications5 libkf5parts-data libkf5parts-plugins libkf5parts5
+  libkf5service-bin libkf5service-data libkf5service5 libkf5solid5 libkf5solid5-data libkf5sonnet5-data
+  libkf5sonnetcore5 libkf5sonnetui5 libkf5textwidgets-data libkf5textwidgets5 libkf5wallet-bin
+  libkf5wallet-data libkf5wallet5 libkf5widgetsaddons-data libkf5widgetsaddons5 libkf5windowsystem-data
+  libkf5windowsystem5 libkf5xmlgui-bin libkf5xmlgui-data libkf5xmlgui5 libkfile4 libkhtml5 libkio5
+  libkjsapi4 libkjsembed4 libkmediaplayer4 libknewstuff3-4 libknotifyconfig4 libkntlm4 libkparts4
+  libkpty4 libkrosscore4 libktexteditor4 libkwalletbackend5-5 libkxmlrpcclient4 liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libnepomuk4 libnepomukquery4a libnepomukutils4
+  libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libntrack-qt4-1 libntrack0 libphonon4
+  libphonon4qt5-4 libplasma3 libpolkit-qt-1-1 libpolkit-qt5-1-1 libqca2 libqca2-plugins
+  libqt4-declarative libqt4-designer libqt4-network libqt4-opengl libqt4-qt3support libqt4-script
+  libqt4-sql libqt4-sql-mysql libqt4-svg libqt4-xmlpatterns libqt5script5 libqt5test5 libqt5x11extras5
+  libqt5xml5 libqtcurve-utils2 libqtwebkit4 libsolid4 libsoprano4 libssh-gcrypt-4 libthreadweaver4
+  libtimedate-perl liburi-perl libutempter0 libvoikko1 libwww-perl libwww-robotrules-perl libxml2-utils
+  media-player-info murrine-themes ntrack-module-libnl-0 oxygen-icon-theme perl-openssl-defaults phonon
+  phonon-backend-gstreamer phonon-backend-gstreamer-common phonon4qt5 phonon4qt5-backend-vlc
+  plasma-scriptengine-javascript sgml-base sgml-data sonnet-plugins soprano-daemon
+  sound-theme-freedesktop xml-core
+Vorgeschlagene Pakete:
+  docbook docbook-dsssl docbook-defguide dbtoepub docbook-xsl-doc-html | docbook-xsl-doc-pdf
+  | docbook-xsl-doc-text | docbook-xsl-doc docbook-xsl-saxon fop libsaxon-java libxalan2-java
+  libxslthl-java xalan kde-config-gtk-style xfce4-panel libterm-readline-gnu-perl
+  | libterm-readline-perl-perl djvulibre-bin finger libdigest-hmac-perl libgssapi-perl fam
+  libdata-dump-perl iodbc hspell libcrypt-ssleay-perl libqt4-declarative-folderlistmodel
+  libqt4-declarative-gestures libqt4-declarative-particles libqt4-declarative-shaders qt4-qmlviewer
+  libqt4-dev voikko-fi libauthen-ntlm-perl phonon-backend-vlc phonon4qt5-backend-gstreamer sgml-base-doc
+  perlsgml w3-recs opensp virtuoso-minimal debhelper
+Die folgenden Pakete werden ENTFERNT:
+  fdpowermon-icons
+Die folgenden NEUEN Pakete werden installiert:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme docbook-xml docbook-xsl
+  gnome-icon-theme-gartoon greybird-gtk-theme gtk2-engines gtk2-engines-aurora gtk2-engines-cleanice
+  gtk2-engines-magicchicken gtk2-engines-murrine gtk2-engines-nodoka gtk2-engines-oxygen
+  gtk2-engines-pixbuf gtk2-engines-qtcurve gtk2-engines-wonderland gtk2-engines-xfce icoutils kate-data
+  katepart kde-baseapps-bin kde-baseapps-data kde-runtime kde-runtime-data kde-style-qtcurve-qt4
+  kde-style-qtcurve-qt5 kdelibs-bin kdelibs5-data kdelibs5-plugins kdoctools kio libattica0.4
+  libauthen-sasl-perl libcanberra-pulse libdbusmenu-qt2 libdbusmenu-qt5-2 libdlrestrictions1
+  libencode-locale-perl libfam0 libfile-listing-perl libfont-afm-perl libgpgme++2v5 libhfstospell9
+  libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl
+  libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl
+  libio-html-perl libio-socket-ssl-perl libiodbc2 libkactivities6 libkatepartinterfaces4 libkcmutils4
+  libkde3support4 libkdeclarative5 libkdecore5 libkdesu5 libkdeui5 libkdewebkit5 libkdnssd4
+  libkemoticons4 libkf5archive5 libkf5attica5 libkf5auth-data libkf5auth5 libkf5bookmarks-data
+  libkf5bookmarks5 libkf5codecs-data libkf5codecs5 libkf5completion-data libkf5completion5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5 libkf5configwidgets-data
+  libkf5configwidgets5 libkf5coreaddons-data libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin
+  libkf5dbusaddons-data libkf5dbusaddons5 libkf5doctools5 libkf5globalaccel-bin libkf5globalaccel-data
+  libkf5globalaccel5 libkf5globalaccelprivate5 libkf5guiaddons5 libkf5i18n-data libkf5i18n5
+  libkf5iconthemes-bin libkf5iconthemes-data libkf5iconthemes5 libkf5itemviews-data libkf5itemviews5
+  libkf5jobwidgets-data libkf5jobwidgets5 libkf5kdelibs4support-data libkf5kdelibs4support5
+  libkf5kdelibs4support5-bin libkf5kiocore5 libkf5kiofilewidgets5 libkf5kiontlm5 libkf5kiowidgets5
+  libkf5notifications-data libkf5notifications5 libkf5parts-data libkf5parts-plugins libkf5parts5
+  libkf5service-bin libkf5service-data libkf5service5 libkf5solid5 libkf5solid5-data libkf5sonnet5-data
+  libkf5sonnetcore5 libkf5sonnetui5 libkf5textwidgets-data libkf5textwidgets5 libkf5wallet-bin
+  libkf5wallet-data libkf5wallet5 libkf5widgetsaddons-data libkf5widgetsaddons5 libkf5windowsystem-data
+  libkf5windowsystem5 libkf5xmlgui-bin libkf5xmlgui-data libkf5xmlgui5 libkfile4 libkhtml5 libkio5
+  libkjsapi4 libkjsembed4 libkmediaplayer4 libknewstuff3-4 libknotifyconfig4 libkntlm4 libkparts4
+  libkpty4 libkrosscore4 libktexteditor4 libkwalletbackend5-5 libkxmlrpcclient4 liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libnepomuk4 libnepomukquery4a libnepomukutils4
+  libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libntrack-qt4-1 libntrack0 libphonon4
+  libphonon4qt5-4 libplasma3 libpolkit-qt-1-1 libpolkit-qt5-1-1 libqca2 libqca2-plugins
+  libqt4-declarative libqt4-designer libqt4-network libqt4-opengl libqt4-qt3support libqt4-script
+  libqt4-sql libqt4-sql-mysql libqt4-svg libqt4-xmlpatterns libqt5script5 libqt5test5 libqt5x11extras5
+  libqt5xml5 libqtcurve-utils2 libqtwebkit4 libsolid4 libsoprano4 libssh-gcrypt-4 libthreadweaver4
+  libtimedate-perl liburi-perl libutempter0 libvoikko1 libwww-perl libwww-robotrules-perl libxml2-utils
+  media-player-info murrine-themes ntrack-module-libnl-0 oxygen-icon-theme perl-openssl-defaults phonon
+  phonon-backend-gstreamer phonon-backend-gstreamer-common phonon4qt5 phonon4qt5-backend-vlc
+  plasma-scriptengine-javascript sgml-base sgml-data sonnet-plugins soprano-daemon
+  sound-theme-freedesktop xml-core
+0 aktualisiert, 214 neu installiert, 1 zu entfernen und 0 nicht aktualisiert.
+Es müssen 102 MB an Archiven heruntergeladen werden.
+Nach dieser Operation werden 350 MB Plattenplatz zusätzlich benutzt.
+Möchten Sie fortfahren? [J/n] n
+Abbruch.
+
+
+naik@BLTX:~$ aptinstall gtk2-engines gtk2-engines-xfce gtk2-engines-murrine gtk2-engines-cleanice gtk2-engines-pixbuf gtk2-engines-nodoka gtk2-engines-aurora gtk2-engines-oxygen gtk2-engines-gartoon gtk2-engines-magicchicken gtk2-engines-wonderland
+Paketlisten werden gelesen... Fertig
+Abhängigkeitsbaum wird aufgebaut.       
+Statusinformationen werden eingelesen.... Fertig
+Hinweis: »gnome-icon-theme-gartoon« wird an Stelle von »gtk2-engines-gartoon« gewählt.
+Die folgenden Pakete wurden automatisch installiert und werden nicht mehr benötigt:
+  bunsen-keyring javascript-common libboost-python1.62.0 libjs-jquery libjs-sphinxdoc libjs-underscore
+  linux-image-3.16.0-4-amd64 python-pyexiv2 python-pyexiv2-doc
+Verwenden Sie »sudo apt autoremove«, um sie zu entfernen.
+The following additional packages will be installed:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme greybird-gtk-theme murrine-themes
+Vorgeschlagene Pakete:
+  kde-config-gtk-style xfce4-panel
+Die folgenden NEUEN Pakete werden installiert:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme gnome-icon-theme-gartoon greybird-gtk-theme
+  gtk2-engines gtk2-engines-aurora gtk2-engines-cleanice gtk2-engines-magicchicken gtk2-engines-murrine
+  gtk2-engines-nodoka gtk2-engines-oxygen gtk2-engines-pixbuf gtk2-engines-wonderland gtk2-engines-xfce
+  murrine-themes
+0 aktualisiert, 16 neu installiert, 0 zu entfernen und 0 nicht aktualisiert.
+Es müssen 3.333 kB an Archiven heruntergeladen werden.
+Nach dieser Operation werden 23,0 MB Plattenplatz zusätzlich benutzt.
+Möchten Sie fortfahren? [J/n] n
+Abbruch.
+
+
+naik@BLTX:~$ aptinstall gtk2-engines gtk2-engines-xfce gtk2-engines-murrine gtk2-engines-cleanice gtk2-engines-pixbuf gtk2-engines-nodoka gtk2-engines-aurora gtk2-engines-oxygen gtk2-engines-gartoon gtk2-engines-magicchicken gtk2-engines-wonderland gtk2-engines-sugar gtk2-engines-moblin
+Paketlisten werden gelesen... Fertig
+Abhängigkeitsbaum wird aufgebaut.       
+Statusinformationen werden eingelesen.... Fertig
+Hinweis: »gnome-icon-theme-gartoon« wird an Stelle von »gtk2-engines-gartoon« gewählt.
+Die folgenden Pakete wurden automatisch installiert und werden nicht mehr benötigt:
+  bunsen-keyring javascript-common libboost-python1.62.0 libjs-jquery libjs-sphinxdoc libjs-underscore
+  linux-image-3.16.0-4-amd64 python-pyexiv2 python-pyexiv2-doc
+Verwenden Sie »sudo apt autoremove«, um sie zu entfernen.
+The following additional packages will be installed:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme greybird-gtk-theme murrine-themes
+Vorgeschlagene Pakete:
+  kde-config-gtk-style xfce4-panel
+Die folgenden NEUEN Pakete werden installiert:
+  albatross-gtk-theme blackbird-gtk-theme bluebird-gtk-theme gnome-icon-theme-gartoon greybird-gtk-theme
+  gtk2-engines gtk2-engines-aurora gtk2-engines-cleanice gtk2-engines-magicchicken gtk2-engines-moblin
+  gtk2-engines-murrine gtk2-engines-nodoka gtk2-engines-oxygen gtk2-engines-pixbuf gtk2-engines-sugar
+  gtk2-engines-wonderland gtk2-engines-xfce murrine-themes
+0 aktualisiert, 18 neu installiert, 0 zu entfernen und 0 nicht aktualisiert.
+Es müssen 3.395 kB an Archiven heruntergeladen werden.
+Nach dieser Operation werden 23,2 MB Plattenplatz zusätzlich benutzt.
