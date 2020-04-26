@@ -35,8 +35,11 @@ window.active.title.separator.color: #2b2b2b
 window.active.border.color: #2b2b2b
 
 
-window.active.title.bg: flat solid
-window.active.title.bg.color: #2b2b2b
+window.active.title.bg: Gradient SplitVertical Raised
+window.active.title.bg.color: #353535
+window.active.title.bg.color.splitTo: #666666
+window.active.title.bg.colorTo: #333333
+window.active.title.bg.colorTo.splitTo: #2b2b2b
 window.active.title.separator.color: #2b2b2b
 window.active.text.justify: center
 
