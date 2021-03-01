@@ -1,0 +1,61 @@
+Format: 1.8
+Source: openbox
+Binary: gnome-panel-control gnome-panel-control-dbgsym libobrender32v5 libobrender32v5-dbgsym libobt2v5 libobt2v5-dbgsym openbox openbox-dbgsym openbox-dev openbox-gnome-session openbox-kde-session
+Architecture: amd64 all
+Version: 3.6.1-9
+Distribution: unstable
+Urgency: low
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Description:
+ gnome-panel-control - command line utility to invoke GNOME panel run dialog/menu
+ libobrender32v5 - rendering library for openbox themes
+ libobt2v5  - parsing library for openbox
+ openbox    - standards-compliant, fast, light-weight and extensible window man
+ openbox-dev - development files for the openbox window manager
+ openbox-gnome-session - command line utility to run Openbox as GNOME session
+ openbox-kde-session - command line utility to run Openbox as KDE SC session
+Changes:
+ openbox (3.6.1-9) unstable; urgency=low
+ .
+   * debian/patches:
+     + Add 922342-rounded-corners.patch for adding rounded corners
+     (thanks to cpoakes from the BunsenLabs).
+Checksums-Sha1:
+ d49e2e186667cb3aba04a88a06934f1ecfa32c4d 9712 gnome-panel-control-dbgsym_3.6.1-9_amd64.deb
+ 08300105445bd9c5319c1b1b1a387eb111d3b132 45944 gnome-panel-control_3.6.1-9_amd64.deb
+ 75090ba9c8a0e5a945ee2da6156078d0362b9de3 105424 libobrender32v5-dbgsym_3.6.1-9_amd64.deb
+ c42b7666461310a96bcb276c8b0b297cb41a2415 76340 libobrender32v5_3.6.1-9_amd64.deb
+ 6768f01f0b4dc74033a105a370877b8eb3cf7226 94668 libobt2v5-dbgsym_3.6.1-9_amd64.deb
+ b122aee6e5594dbea923fe180a3a7cf7ed2f9763 66760 libobt2v5_3.6.1-9_amd64.deb
+ e7a3bd1f8e6f2e4139c80e9501438624425f273f 766996 openbox-dbgsym_3.6.1-9_amd64.deb
+ aec1bea8e3898421bf677f08e702ab0a4344ecf6 112716 openbox-dev_3.6.1-9_amd64.deb
+ 8ce886406afe03e4238c03afd9750cc7e7d9bfe7 42704 openbox-gnome-session_3.6.1-9_all.deb
+ c1be094549fbc27681f0c4b9e8eeb1de7f19d8ae 41804 openbox-kde-session_3.6.1-9_all.deb
+ c3324180bee527ea75fe8d4804d7a130d3b44405 12708 openbox_3.6.1-9_amd64.buildinfo
+ 108505b150e20065c4c782a6a54ce5a4a4edadbb 310164 openbox_3.6.1-9_amd64.deb
+Checksums-Sha256:
+ 64afe48003928185a84ffc9a86140f0318b99f4078bb63194a81be9ef8d46999 9712 gnome-panel-control-dbgsym_3.6.1-9_amd64.deb
+ 12e03318a2ac6bb5c7d9d9ccc538e1128a6cda823a62e2f592cad25dd41a472c 45944 gnome-panel-control_3.6.1-9_amd64.deb
+ 358f259b9f2b8c387743f3c7ede5a0d3a17296bdfc85f07398ba72e110518546 105424 libobrender32v5-dbgsym_3.6.1-9_amd64.deb
+ 732ade130bc765ff0972f2e2b469446e794d4ba3024472398bb650f684e198df 76340 libobrender32v5_3.6.1-9_amd64.deb
+ f7da05c6737fc58da3a3e85ad32430895f56a6a42b754fa2f22f4f9d573fab1d 94668 libobt2v5-dbgsym_3.6.1-9_amd64.deb
+ 0f9f2086feaee85bee8d52dee92d884319dc01f8443e23f63d28f54a011c4616 66760 libobt2v5_3.6.1-9_amd64.deb
+ 3f2949e4dce2f6b3ee102678b180499632b6fdd5b73757741d6204960840be1f 766996 openbox-dbgsym_3.6.1-9_amd64.deb
+ 1034dffda963360108dcc12cf2d1c1a6514d9028150068bee16057ba79213a32 112716 openbox-dev_3.6.1-9_amd64.deb
+ 5300e289694ecb6268ce53c5715ffd6d851404d71de8a9d24f3ad15d789be4ca 42704 openbox-gnome-session_3.6.1-9_all.deb
+ cadb396d6274782c821f81d3c41b492b20a92c10aedfd633dc32b8e6b306a50f 41804 openbox-kde-session_3.6.1-9_all.deb
+ 8390be6407b42a3eb2a6701d24d7c3487025853f98cf847d7c7b826d61807c9b 12708 openbox_3.6.1-9_amd64.buildinfo
+ 3f47ca0bd37046d2ed43e7b3920c3b1d3caf0166b44d9a4de55e5bd0d05e370e 310164 openbox_3.6.1-9_amd64.deb
+Files:
+ d437489b5318cbfbf339133da9689d8f 9712 debug optional gnome-panel-control-dbgsym_3.6.1-9_amd64.deb
+ 0cdd7de240de85dd2f09d2491f2c9f05 45944 x11 optional gnome-panel-control_3.6.1-9_amd64.deb
+ 243ac968387eb64640b3dc79c9d9f094 105424 debug optional libobrender32v5-dbgsym_3.6.1-9_amd64.deb
+ 6961b9853df43024f623220879eebc54 76340 libs optional libobrender32v5_3.6.1-9_amd64.deb
+ 30737976955527ce3c6290101b70edf8 94668 debug optional libobt2v5-dbgsym_3.6.1-9_amd64.deb
+ cf10eecf7a0589e8d5a7897573a03357 66760 libs optional libobt2v5_3.6.1-9_amd64.deb
+ bd4cc94ddfa03debcf03321a3530ae63 766996 debug optional openbox-dbgsym_3.6.1-9_amd64.deb
+ 46b02d4db6f4895c970e6294e391cf9e 112716 libdevel optional openbox-dev_3.6.1-9_amd64.deb
+ 895c29d503240e087017c7003ae0e0c7 42704 x11 optional openbox-gnome-session_3.6.1-9_all.deb
+ a76166f18b2cbc72cd510c02e81e2a4b 41804 x11 optional openbox-kde-session_3.6.1-9_all.deb
+ 9696f9a96b5a7911959f1580bb5a960c 12708 x11 optional openbox_3.6.1-9_amd64.buildinfo
+ ad506f5f5b8282c42784055a00bfc0dd 310164 x11 optional openbox_3.6.1-9_amd64.deb
