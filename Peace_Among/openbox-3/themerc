@@ -1,0 +1,92 @@
+!! Peace Among by Naik von Nachtlicht
+!! Inspired by Onyx by Dana Jansens Neechan
+
+!! Menu background
+menu.items.bg: flat
+menu.items.bg.color: #1E282C
+menu.overlap.x: -6
+
+!! Menu text
+menu.items.text.color: #00A9A5
+menu.items.justify: left
+menu.items.disabled.text.color: #8a8a8a
+
+!! Menu separator
+menu.separator.padding.height: 2
+menu.separator.color: #1E282C
+
+!! Menu border
+menu.border.width: 6
+menu.border.color: #1E282C
+
+!! Menu headers
+menu.title.bg: flat
+menu.title.bg.color: #1E282C
+menu.title.text.color: #f8f8f2
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: gradient horizontal flat
+menu.items.active.bg.color: #00A9A5
+menu.items.active.bg.colorTo: #22C4D4
+menu.items.active.text.color: #FFFFFF
+
+!! Titlebar
+window.active.title.bg: gradient horizontal flat
+window.active.title.bg.color: #2A454E
+window.active.title.bg.colorTo:#00A9A5
+window.inactive.title.bg: gradient horizontal flat
+window.inactive.title.bg.color: #1E282C
+window.inactive.title.bg.colorTo: #0F817E
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color:#BDE3F1
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #1E282C
+
+!! Window buttons
+window.*.button.*.bg: parentrelative
+window.active.button.*.hover.bg: flat
+window.inactive.button.*.hover.bg: parentrelative
+window.*.button.*.pressed.bg: flat
+
+window.active.button.*.image.color: #00A9A5
+window.active.button.disabled.image.color: #00A9A5
+window.inactive.button.*.image.color: #00A9A5
+window.inactive.button.disabled.image.color: #00A9A5
+
+window.active.button.*.hover.bg.color: #00A9A5
+window.active.button.*.pressed.bg.color: #1E282C
+window.active.button.close.hover.image.color: #ff5555
+window.active.button.max.hover.image.color: #f1fa8c
+window.active.button.iconify.hover.image.color: #50fa7b
+window.active.button.shade.hover.image.color: #e3788f
+window.active.button.desk.hover.image.color: #e3788f
+window.inactive.button.*.pressed.bg.color: #4ab5ff
+
+!! Borders
+window.active.border.color: #1E282C
+window.inactive.border.color: #1E282C
+border.width: 0
+padding.width: 2
+padding.height: 0
+window.handle.width: 0
+window.active.client.color:  #1E282C
+window.inactive.client.color:  #1E282C
+window.client.padding.width: 0
+window.client.padding.height: 0
+
+!! On-screen displays
+osd.border.width: 1
+osd.border.color: #1E282C
+osd.label.text.color: #d8d8d8
+osd.bg: flat solid
+osd.bg.color: #1E282C
+osd.label.bg: flat solid
+osd.label.bg.color: #1E282C
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #81a1c1
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #d8dee8
